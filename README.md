@@ -16,17 +16,17 @@ This project explores and analyzes customer churn behavior using a publicly avai
 
 ##  Project Structure
 
-├── dashboard/ # Final dashboard PDFs and reports
+/dashboard/ – Final dashboard PDFs and Looker Studio screenshots
 
-├── data/ # Processed CSV exports for visualizations
+/data/ – Cleaned and grouped CSVs used for visualizations
 
-├── excel/ # Excel (Google Sheet) file used for cleaning and pivot creation
+/excel/ – Google Sheet / Excel workbook containing cleaning steps and pivot tables
 
-├── screenshots/ # Dashboard and chart snapshots
+/screenshots/ – Image exports of dashboard and chart visuals
 
-├── sql/ # SQL scripts used for cleaning and transformation
+/sql/ – SQL scripts used for data cleaning and transformation
 
-├── README.md # This file
+README.md – Project overview and documentation
 
 
 ---
